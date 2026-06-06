@@ -12,6 +12,8 @@ Zephyrus (Zeph) is a prototype crypto intelligence web app built to simulate the
 - DeFi yield optimization suggestions.
 - NFT trend forecasting.
 - High-quality tweet generation (4–8 tweets/day).
+- Live CoinGecko market scanning for trending tokens and high-growth movers.
+- Real-time hyped token feed with generated tweet alerts based on trending market activity.
 
 ## Run locally
 
